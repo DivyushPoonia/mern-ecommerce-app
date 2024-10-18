@@ -1,0 +1,10 @@
+# React
+client/node_modules/
+
+
+# Node.js
+server/node_modules/
+.env
+
+.vscode/
+.DS_Store
